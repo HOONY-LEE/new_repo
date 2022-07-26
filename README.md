@@ -1,1 +1,2 @@
-# new_repo
+# gitignore 시작하기
+
